@@ -8,3 +8,4 @@
 - [2026-04-24T10:38:10Z] style: apply consistent code formatting
 - [2026-04-24T17:41:36Z] fix: handle null pointer exception
 - [2026-04-24T16:05:53Z] chore: remove deprecated API calls
+- [2026-04-24T14:55:19Z] docs: improve inline documentation
