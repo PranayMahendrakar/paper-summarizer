@@ -5,3 +5,4 @@
 - [2026-04-21T19:39:38Z] feat: add helper utility function
 - [2026-04-21T08:26:19Z] chore: remove deprecated API calls
 - [2026-04-24T20:40:07Z] test: add unit tests for core module
+- [2026-04-24T10:38:10Z] style: apply consistent code formatting
